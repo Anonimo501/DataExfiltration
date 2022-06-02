@@ -8,10 +8,10 @@ Para lo anterior he subido este script, el cual se puede sacar el codigo de la p
 
 # Instalacion y Uso
 
-git clone https://github.com/Anonimo501/Magma-Osint.git
+git clone https://github.com/Anonimo501/DataExfiltration.git
 
-cd Magma-Osint/
+cd DataExfiltration/
 
-pip install -r requirements.txt
-
-python3 osint.py
+> python server.py 80
+> python server.py 8080
+> python server.py 8443
