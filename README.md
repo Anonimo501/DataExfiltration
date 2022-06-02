@@ -10,6 +10,10 @@ Para extraer un archivo de la maquina victima, necesitamos ejecutar un servidor 
 
 Para lo anterior he subido este script, el cual se puede sacar el codigo de la pagina de INE, os dejo a continuacion el script en python.
 
+## Lo anterior quiere decir que:
+
+(Este script sirve para montar el servidor normal HTTP para compartir archivos y descargar desde la maquina victima como tambien sirve para enviar archivos desde la maquina victima a la maquina atacante)
+
 ![Screenshot_1](https://user-images.githubusercontent.com/67207446/171551255-53a00cb3-9e87-41fd-9ae0-14f8f5072fe6.png)
 
 # Instalacion y Uso
