@@ -13,5 +13,7 @@ git clone https://github.com/Anonimo501/DataExfiltration.git
 cd DataExfiltration/
 
 > python server.py 80
+
 > python server.py 8080
+
 > python server.py 8443
