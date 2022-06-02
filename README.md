@@ -4,7 +4,7 @@
 
 "La exfiltración de datos ocurre cuando el malware y / o un actor malintencionado lleva a cabo una transferencia de datos no autorizada desde una computadora. También se denomina comúnmente extrusión de datos o exportación de datos. La exfiltración de datos también se considera una forma de robo de datos."
 
-========================================================================================================================================================================================
+=======================================================================================================================================
 
 Para extraer un archivo de la maquina victima, necesitamos ejecutar un servidor HTTP (server.py) en la máquina Atacante que pueda aceptar y guardar el archivo cuando se envía desde la maquina victima a través del protocolo HTTP.
 
